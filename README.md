@@ -1,2 +1,2 @@
 # pup
-SPA for [rqhlaw.com](https://www.rqhlaw.com)
+Project moved to [https://github.com/rqhlaw/rqhlaw.github.io](https://github.com/rqhlaw/rqhlaw.github.io)
